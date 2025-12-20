@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "7 Years",
+  "base_artist": "Lukas Graham",
+  "createdAt": "2025-12-20T07:38:03.812244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "7",
+      "artist": "陈奕迅",
+      "has_synced": false,
+      "path": "select/01_7_陈奕迅.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7 Years",
+      "artist": "Love Spit Love",
+      "has_synced": true,
+      "path": "select/02_7_Years_Love_Spit_Love.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "30 Past 7",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_30_Past_7_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "30 Past 7",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_30_Past_7_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "7 Months, 39 Days",
+      "artist": "Hank Williams III",
+      "has_synced": true,
+      "path": "select/05_7_Months,_39_Days_Hank_Williams_III.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "7 Summers",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/06_7_Summers_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "7 Summers",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/07_7_Summers_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Goes On, Pt. 7",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/08_What_Goes_On,_Pt._7_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Climbing Up the Walls (Zero 7 Mix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/09_Climbing_Up_the_Walls_(Zero_7_Mix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Acid at 7/11",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/10_Acid_at_7_11_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Situation (7\" single)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/11_Situation_(7__single)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Situation (7'' Single)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/12_Situation_(7''_Single)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "6 Foot 7 Foot",
+      "artist": "Lil Wayne feat. Cory Gunz",
+      "has_synced": true,
+      "path": "select/13_6_Foot_7_Foot_Lil_Wayne_feat._Cory_Gunz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "6 Foot 7 Foot (Feat. Cory Gunz)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_6_Foot_7_Foot_(Feat._Cory_Gunz)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Academy Fight Song [1980 7\" Single]",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/15_Academy_Fight_Song_[1980_7__Single]_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7 Years",
+      "artist": "Lukas Graham",
+      "has_synced": false,
+      "path": "select/pl_01_7_Years_Lukas_Graham.txt"
+    }
+  ]
+}
